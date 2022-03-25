@@ -6,7 +6,7 @@ public class Pessoa {
 	String nomePessoa;
 	String endereco;
 	String tipoPessoa;
-	boolean sexo;
+	String sexo;
 	Date dataDeNascimento;
 }
 
